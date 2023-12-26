@@ -67,7 +67,6 @@ public class ProgramKasir {
           LocalDate tanggalPembelian = LocalDate.now(); // Mengambil tanggal saat ini
           System.out.println("========= STRUK PEMBELIAN =========");
           System.out.printf("Tanggal Pembelian : %s\n", tanggalPembelian);
-          ;
           System.out.printf("Nama Pelanggan    : %s\n", namaPelanggan);
           System.out.println("===================================");
           System.out.printf("%-20s %-10s\n", "Nama Barang", "\t  Harga");
