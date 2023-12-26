@@ -76,8 +76,7 @@ public class ProgramKasir {
                }
           }
           System.out.println("===================================");
-          System.out.printf("%-20s \t@ %-10.2f\n", "Total Harga",
-                    hitungTotalHarga(hargaBarang));
+          System.out.printf("%-20s \t@ %-10.2f\n", "Total Harga", hitungTotalHarga(hargaBarang));
           System.out.println("===================================");
      }
 
